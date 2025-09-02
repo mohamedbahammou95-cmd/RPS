@@ -98,10 +98,16 @@ body {
     #table, #table2 {
         width: 60vw;
         font-size: 18px;
+        background-color: #ffffff;
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     .button {
         width: 25vw;
         font-size: 16px;
+        background-color: #ffffff;
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     #icon1, #icon2, #icon3 {
         width: 70px;
@@ -118,10 +124,16 @@ body {
     #table, #table2 {
         width: 85vw;
         font-size: 16px;
+        background-color: #ffffff;
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     .button {
         width: 60vw;
         font-size: 16px;
+        background-color: #ffffff;
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     #icon1, #icon2, #icon3 {
         width: 60px;
@@ -129,4 +141,5 @@ body {
         font-size: 24px;
     }
 }
+
 
